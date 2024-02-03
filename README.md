@@ -14,12 +14,13 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 **Full_Stack_Capstone_Front_End** <a name="about-project"></a>
+<!-- PROJECT DESCRIPTION -->
 
+# 📖 Car Reservation App <a name="about-project"></a>
+
+The project is based on an app to book an appointment to try a motorcycle. and follow the given design of the website but with personalized content for making a car reservation app, this is the project's Front-end, it's used as a user interface for the Back-end [found here](https://github.com/Abdelaziz-Mahdi/Full_Stack_Capstone_Back_End/).
 
 ## 🛠 Built With <a name="built-with"></a>
-
-<a href="https://github.com/JavierAybar/Full_Stack_Capstone_Back_End">See the Rails Application</a>
 
 - HTML
 - CSS
